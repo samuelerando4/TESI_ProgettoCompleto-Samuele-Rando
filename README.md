@@ -19,5 +19,5 @@ L'archivio su Drive contiene:
 
   ## Dataset Originale
 Il dataset completo e originale, sul quale il modello è stato pre-addestrato e da cui sono state selezionate le immagini di test, è disponibile al seguente link:
- **[CLICCA QUI PER ACCEDERE AL DATASET](https://www.kaggle.com/datasets/dansbecker/food-101)**
+ **[Link Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)**
 

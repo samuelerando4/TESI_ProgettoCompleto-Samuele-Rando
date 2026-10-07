@@ -16,3 +16,8 @@ L'archivio su Drive contiene:
 * `Campioni di Test`: Cartella con il dataset delle immagini originali e convertite.
 * `convertitoreImmagini.py`: Script per il pre-processing.
 * `mobilenetv2_a035_128_fft_int8 (1).tflite`: Modello quantizzato.
+
+  ## Dataset Originale
+Il dataset completo e originale, sul quale il modello è stato pre-addestrato e da cui sono state selezionate le immagini di test, è disponibile al seguente link:
+ **[CLICCA QUI PER ACCEDERE AL DATASET](https://www.kaggle.com/datasets/dansbecker/food-101)**
+

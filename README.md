@@ -8,7 +8,7 @@ Questo repository contiene il codice e i modelli per il progetto di tesi. A caus
 
 ## Progetti e Dataset (Download Esterno)
 Tutti i file sono disponibili per il download al seguente link:
-➡️ **[Progetto Completo](https://drive.google.com/drive/folders/1NuwLPAHaZItgTtHUUzDdb8JwU9tzQngn?usp=drive_link)**
+**[Progetto Completo](https://drive.google.com/drive/folders/1NuwLPAHaZItgTtHUUzDdb8JwU9tzQngn?usp=drive_link)**
 
 L'archivio su Drive contiene:
 * `Progetto_CPU.zip`: Progetto STM configurato per CPU.

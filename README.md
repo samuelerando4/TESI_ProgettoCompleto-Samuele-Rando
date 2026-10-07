@@ -2,7 +2,7 @@
 
 Questo repository contiene il codice e i modelli per il progetto di tesi. A causa delle limitazioni di dimensione di GitHub, i progetti completi e i campioni di test sono archiviati su Google Drive.
 
-## Codice e Modelli (In questo Repository)
+## Codice e Modello (In questo Repository)
 * `convertitoreImmagini.py`: Script Python per il pre-processing delle immagini.
 * `mobilenetv2_a035_128_fft_int8 (1).tflite`: Modello quantizzato per i test.
 

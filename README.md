@@ -7,7 +7,7 @@ Questo repository contiene il codice e i modelli per il progetto di tesi. A caus
 * `mobilenetv2_a035_128_fft_int8 (1).tflite`: Modello quantizzato per i test.
 
 ## Progetti e Dataset (Download Esterno)
-Tutti i file pesanti sono disponibili per il download al seguente link:
+Tutti i file sono disponibili per il download al seguente link:
 ➡️ **[Progetto Completo](https://drive.google.com/drive/folders/1NuwLPAHaZItgTtHUUzDdb8JwU9tzQngn?usp=drive_link)**
 
 L'archivio su Drive contiene:
